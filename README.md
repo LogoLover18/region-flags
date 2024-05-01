@@ -60,7 +60,7 @@ flags were resolved for the initial import:
 - The script `update.sh` automatically regenerates all files and outputs optimized png.
 - The script `convert.sh` converts SVG to PNG with ability to specify Width or Height.
 
-You can use the [waveflag script from the Noto fonts project](https://code.google.com/p/noto/source/browse/color_emoji/waveflag.c)
+You can use the [waveflag script from the Noto Emoji project](https://github.com/googlefonts/noto-emoji/blob/main/waveflag.c)
 to _wave_ PNG flags.
 
 # Requirements
